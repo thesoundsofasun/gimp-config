@@ -1,1 +1,1 @@
-# gimp-config
+# GIMP Configuration

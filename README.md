@@ -13,6 +13,7 @@
 ### Edit
 |**Action**|**Shortcut**|
 | - | - |
+| Clear|**Del**|
 | Redo |**Ctrl + Shift + Z**|
 | Undo |**Ctrl + Z**|
 

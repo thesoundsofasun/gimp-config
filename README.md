@@ -1,4 +1,10 @@
 # GIMP Configuration
+#### Keyboard shortcuts 
+- [shortcutsrc](https://github.com/thesoundsofasun/gimp-config/blob/main/.config/GIMP/3.2/shortcutsrc) file and drop it in ~/.config/GIMP/3.2 directory
+#### Layout 
+- [sessionrc](https://github.com/thesoundsofasun/gimp-config/blob/main/.config/GIMP/3.2/sessionrc) file and drop it in ~/.config/GIMP/3.2 directory
+#### Themes 
+- Unpack [GIMP-3-Themes-main.zip](https://github.com/bunnywaffle/GIMP-3-Themes) file and drop it in ~/.config/GIMP/3.2/themes directory
 ## Keyboard shortcuts
 ### Context
 |**Action**|**Shortcut**|
